@@ -1,0 +1,7 @@
+
+Ordenar arreglo de tamaño 4
+Arreglo desordenado: 14 41 21 20 
+Arreglo ordenado: 14 20 21 41 
+Ordenar arreglo de tamaño 6
+Arreglo desordenado: -2 -12 10 2 6 2 
+Arreglo ordenado: -12 -2 2 2 6 10 
